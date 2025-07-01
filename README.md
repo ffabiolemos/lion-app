@@ -1,4 +1,4 @@
-# Lion-app
+# Lion-app [ ![Excel](https://img.shields.io/badge/Excel-Planilha-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ]
 📌 Visão Geral
 Esta planilha foi criada para organizar e coletar dados financeiros pessoais de um indivíduo, incluindo seus rendimentos bancários, notas mensais, e uma lista de bancos válidos. A estrutura é voltada para uso pessoal ou como base para relatórios financeiros em aplicativos ou processos de análise financeira.
 
